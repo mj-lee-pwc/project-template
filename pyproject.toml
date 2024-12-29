@@ -5,10 +5,10 @@ description = "pwc project template"
 requires-python = ">=3.11,<3.12"
 readme = "README.md"
 authors = [
-    { name = "KMYU", email = "kwangmyung.yu@pwc.com" } # Optional
+    { name = "mjlee-pwc", email = "myungjun.lee@pwc.com" } # Optional
 ]
 maintainers = [
-    { name = "KMYU", email = "kwangmyung.yu@pwc.com" } # Optional
+    { name = "mjlee-pwc", email = "myungjun.lee@pwc.com" } # Optional
 ]
 
 [build-system]
